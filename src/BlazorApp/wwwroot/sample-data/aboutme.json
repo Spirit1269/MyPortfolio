@@ -1,12 +1,14 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Dynamic Software Engineer with proven experience in full-stack development and a strong focus on .NET technologies, C#, and cloud environments. Expertise in designing, developing, and integrating complex software solutions that comply with security standards such as PCI and OWASP. Adept at working within agile teams, contributing to all phases of the SDLC, and excelling in continuous improvement initiatives. Demonstrated leadership and problem-solving skills gained from over 20 years in the U.S. Army, complemented by a deep understanding of HRIS data analytics and cyber risk management.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "C#",
+    ".NET",
+    "Blazor",
+    "REST/API",
+    "Azure DevOps/gitHub",
+    "SQL",
+    "JavaScript",
+    "Automated Testing"
   ],
   "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
 }
